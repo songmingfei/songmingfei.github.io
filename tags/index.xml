@@ -2,12 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on My New Hugo Site</title>
+<<<<<<< HEAD
     <link>https://songmingfei.github.io/%28%E4%BB%93%E5%BA%93%E5%9C%B0%E5%9D%80%29/tags/</link>
+=======
+    <link>https://songmingfei.github.io/tags/</link>
+>>>>>>> b92d05296cce35bc8ffbacdeffb8d3f0166fe004
     <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
+<<<<<<< HEAD
 	<atom:link href="https://songmingfei.github.io/%28%E4%BB%93%E5%BA%93%E5%9C%B0%E5%9D%80%29/tags/index.xml" rel="self" type="application/rss+xml" />
+=======
+	<atom:link href="https://songmingfei.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> b92d05296cce35bc8ffbacdeffb8d3f0166fe004
     
     
   </channel>

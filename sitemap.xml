@@ -3,6 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>https://songmingfei.github.io/%28%E4%BB%93%E5%BA%93%E5%9C%B0%E5%9D%80%29/categories/</loc>
   </url>
   
@@ -12,6 +13,22 @@
   
   <url>
     <loc>https://songmingfei.github.io/%28%E4%BB%93%E5%BA%93%E5%9C%B0%E5%9D%80%29/tags/</loc>
+=======
+    <loc>https://songmingfei.github.io/myblog/</loc>
+    <lastmod>2020-06-13T00:00:46+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://songmingfei.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://songmingfei.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://songmingfei.github.io/tags/</loc>
+>>>>>>> b92d05296cce35bc8ffbacdeffb8d3f0166fe004
   </url>
   
 </urlset>
